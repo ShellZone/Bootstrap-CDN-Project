@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container .navbar-nav > li > .dropdown-menu { 
+    background-color: #1B3011; 
+    }
+
+.container .navbar-nav > li a {
+    color: #347B12;
+    -webkit-text-stroke: 1px rgb(83, 170, 105);
+    -webkit-text-stroke-width: 0.5px;
+        
+    }
+ 
+    
+body {
+    background-image: url(./images/andras-vas-Bd7gNnWJBkU-unsplash.jpg);
+    background-size: cover;
+    
+    background-position: center center;
+    background-repeat: no-repeat;
+    
+}
+
