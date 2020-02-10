@@ -23,4 +23,24 @@ body {
     background-repeat: no-repeat;
     
 }
+.jumbotron{
+    background-color:rgb(85, 122, 85);
+    text-align:center;
+}
 
+.jumbotron{
+    background-color: rgb(12, 34, 12);
+    
+
+    }.jumbotron{
+        color: green;
+        
+
+        }
+.lead a {
+    color: green;
+}
+
+.lead {
+    color: black;
+}
